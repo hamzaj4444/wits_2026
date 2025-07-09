@@ -1,0 +1,120 @@
+{
+  "hero": {
+    "badge": "International Conference",
+    "title": "WITS 2026",
+    "subtitle": "International Conference on WIreless Technologies",
+    "description": "Join leading researchers and practitioners in exploring the future of information technologies and systems"
+  },
+  "importantDates": [
+    {
+      "title": "Paper Submission",
+      "date": "March 15, 2026",
+      "icon": "FileText"
+    },
+    {
+      "title": "Notification",
+      "date": "May 1, 2026",
+      "icon": "Calendar"
+    },
+    {
+      "title": "Final Papers",
+      "date": "June 15, 2026",
+      "icon": "Award"
+    },
+    {
+      "title": "Conference",
+      "date": "August 20-22, 2026",
+      "icon": "Users"
+    }
+  ],
+  "quickLinks": [
+    {
+      "title": "Keynote Speakers",
+      "description": "World-renowned experts in IT and systems",
+      "href": "/keynote-speakers",
+      "icon": "Users"
+    },
+    {
+      "title": "Program",
+      "description": "Detailed conference schedule and sessions",
+      "href": "/program",
+      "icon": "Calendar"
+    },
+    {
+      "title": "Venue & Fez",
+      "description": "Discover the beautiful city of Fez, Morocco",
+      "href": "/venue",
+      "icon": "MapPin"
+    },
+    {
+      "title": "Committees",
+      "description": "Meet our organizing and program committees",
+      "href": "/committees",
+      "icon": "Award"
+    },
+    {
+      "title": "Call for Papers",
+      "description": "Submit your research and join the discussion",
+      "href": "/call-for-papers",
+      "icon": "FileText"
+    },
+    {
+      "title": "Contact",
+      "description": "Get in touch with the organizing team",
+      "href": "/contact",
+      "icon": "Users"
+    }
+  ],
+  "sponsors": [
+    {
+      "name": "Sponsor1",
+      "logo": "/sponsors/GitHub_Logo_White.png"
+    },
+    {
+      "name": "TechCorp",
+      "logo": "/sponsors/GitHub_Logo_White.png"
+    },
+    {
+      "name": "DataSystems",
+      "logo": "/sponsors/GitHub_Logo_White.png"
+    },
+    {
+      "name": "CloudInnovate",
+      "logo": "/sponsors/GitHub_Logo_White.png"
+    },
+    {
+      "name": "AI Solutions",
+      "logo": "/sponsors/GitHub_Logo_White.png"
+    },
+    {
+      "name": "FutureTech",
+      "logo": "/sponsors/GitHub_Logo_White.png"
+    }
+  ],
+  "conferenceHighlights": [
+    {
+      "image": "/conference/w1.jpeg",
+      "alt": "Keynote session at WITS 2025"
+    },
+    {
+      "image": "/conference/w2.jpeg",
+      "alt": "Panel discussion at WITS 2025"
+    },
+    {
+      "image": "/conference/w5.jpeg",
+      "alt": "Networking event at WITS 2025"
+    },
+    {
+      "image": "/conference/w6.jpeg",
+      "alt": "Workshop session at WITS 2025"
+    },
+    {
+      "image": "/conference/w7.jpeg",
+      "alt": "Award ceremony at WITS 2025"
+    },
+    {
+      "image": "/conference/w8.jpeg",
+      "alt": "Conference venue at WITS 2025"
+    }
+  ]
+}

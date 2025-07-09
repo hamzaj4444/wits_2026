@@ -1,0 +1,110 @@
+{
+  "title": "Discover Fez, Morocco",
+  "description": "Experience the perfect blend of ancient culture and modern hospitality in Morocco's cultural capital",
+  "venue": {
+    "name": "ENSA Fès",
+    "address": "Avenue My Abdallah, Km 5, Route d'Imouzzer, BP 72, Fès, Morocco.",
+    "description": "A state-of-the-art facility equipped with modern technology and amenities for international conferences.",
+    "features": [
+      "2 conference halls with capacity up to 400 attendees",
+      "High-speed WiFi and AV equipment",
+      "Exhibition space for sponsors and demos",
+      "Catering facilities and networking areas"
+    ]
+  },
+  "travel": {
+    "airport": {
+      "name": "Fez-Saïs Airport (FEZ)",
+      "description": "The closest airport, just 15km from the city center with regular international connections.",
+      "features": [
+        "Direct flights from major European cities",
+        "Connecting flights via Casablanca (CMN)",
+        "Airport shuttle and taxi services available",
+        "High-speed train from Casablanca (3.5 hours)"
+      ]
+    }
+  },
+  "accommodation": {
+    "title": "Hotels Recommnedations",
+    "description": "We've negotiated special rates with premium hotels near the conference venue.",
+    "hotels": [
+      {
+        "name": "Palais Medina Riad Resort",
+        "stars": 5,
+        "description": "Luxury hotel with panoramic city views",
+        "rate": "€155/night"
+      },
+      {
+        "name": "Royal Mirage Fes Hotel",
+        "stars": 4,
+        "description": "location within the heart of Fès ",
+        "rate": "€120/night"
+      },
+      {
+        "name": "Riad Passiflora",
+        "stars": 3,
+        "description": "50 meters de Ensa Fès",
+        "rate": "€80/night"
+      }
+    ]
+  },
+  "practicalInfo": {
+    "climate": "August: Warm and dry, 25-35°C (77-95°F)",
+    "currency": "Moroccan Dirham (MAD), Credit cards widely accepted",
+    "language": "Arabic, Berber, French widely spoken, English in hotels",
+    "visa": "Many nationalities can enter visa-free for 90 days",
+    "timezone": "GMT+1 (Western European Time)"
+  },
+  "attractions": [
+    {
+      "name": "Medina of Fez",
+      "description": "UNESCO World Heritage site with medieval architecture",
+      "image": "/images/fesalbali.jpeg"
+    },
+    {
+      "name": "Al-Qarawiyyin University",
+      "description": "One of the world's oldest continuously operating universities",
+      "image": "/images/alquarouiyine.jpeg"
+    },
+    {
+      "name": "Bou Inania Madrasa",
+      "description": "one of the Stunning examples of Marinid architecture",
+      "image": "/images/BouInaniaMadrasa.jpg"
+    },
+    {
+      "name": "The Royal Palace of Fez",
+      "description": "the palace dates from the 'Alawi era (17th-20th centuries)",
+      "image": "/images/Royal Palace of Fez.jpeg"
+    },
+    {
+      "name": "Marinid Tombs",
+      "description": "A set of ruined monumental tombs on a hill above and north of Fes al-Bali",
+      "image": "/images/Marinid Tombs.jpeg"
+    },
+    {
+      "name": "Al-Attarine Madrasa",
+      "description": "Al-Attarine Madrasa is one of the most important spiritual centres in Fez",
+      "image": "/images/Al-Attarine Madrasa.jpg"
+    },
+    {
+      "name": "Chouara Tannery",
+      "description": "Traditional leather tanning process dating back centuries",
+      "image": "/images/chouaratannery.jpg"
+    }
+  ],
+  "culinary": {
+    "description": "Fez is renowned for its exceptional cuisine, blending Arab, Berber, and French influences. Don't miss these local specialties:",
+    "dishes": [
+      "Pastilla - Sweet and savory pastry",
+      "Tagine - Slow-cooked stew",
+      "Couscous - Friday specialty",
+      "Harira - Traditional soup"
+    ],
+    "experiences": [
+      "Cooking classes in traditional riads",
+      "Spice market tours",
+      "Mint tea ceremonies",
+      "Rooftop dining with medina views"
+    ]
+  }
+}

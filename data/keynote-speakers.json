@@ -1,0 +1,38 @@
+{
+  "title": "Distinguished Speakers",
+  "description": "Learn from world-renowned experts who are shaping the future of information technologies and systems",
+  "speakers": [
+    {
+      "name": "Maria Da Graça RUANO",
+      "title": "Electronic Engineering and Informatics",
+      "company": "University of Algarve, Portugal.",
+      "topic": "",
+      "bio": "Maria da Graça Ruano (female) received her Ph.D. in Electronic Engineering from the University of Wales, United Kingdom in 1992.",
+      "image": "/images/maria.jpg"
+    },
+    {
+      "name": "Mohamed HIMDI",
+      "title": "Professeur of university, IETR",
+      "company": "University of Rennes 1, France",
+      "topic": "",
+      "bio": "MOHAMED HIMDI received the Ph.D. degree in signal processing and telecommunications from the University of Rennes 1, France in 1990",
+      "image": "/images/himdi.png"
+    },
+    {
+      "name": "Antonio RUANO",
+      "title": "Edge Computing and IoT: Building the Connected Future",
+      "company": "Associate Professor with Habilitation, University of Algarve, Portugal.",
+      "topic": "",
+      "bio": "Graduate in Electrical Engineering,1982. Master of Science in Electrotech. Doctor of Philosophy in Electronic Engineering, University Wales, Bangor, 1993.",
+      "image": "/images/Ruano.png"
+    },
+    {
+      "name": "Ahmed LAKHSSASSI",
+      "title": "Responsible of the LIMA laboratory CANADA",
+      "company": "Université du Québec (UQTR), Québec, Canada",
+      "topic": "",
+      "bio": "Received the Ph.D. in Energy and Material sciences in 1995 from INRS-Energie et Materiaux Montréal, Québec, Canada.",
+      "image": "/images/lakhssassi.jpg"
+    }
+  ]
+}

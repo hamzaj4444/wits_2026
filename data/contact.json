@@ -1,0 +1,70 @@
+{
+  "title": "Get in Touch",
+  "description": "Have questions about WITS 2026? Our team is here to help you with any inquiries",
+  "venue": {
+    "name": "Fez National School of Applied Sciences",
+    "address": "Avenue My Abdallah Km 5. Route d'Imouzzer, Fès BP 72.",
+    "details": [
+      "15 minutes from Fez-Saïs Airport",
+      "5 minutes from city center"
+    ]
+  },
+  "quickFacts": {
+    "dates": "August 20-22, 2026",
+    "attendees": "300+ participants",
+    "timezone": "GMT+1 (WET)",
+    "language": "English"
+  },
+  "contacts": [
+    {
+      "title": "General Information",
+      "name": "Pr: M. ALAMI MARKTANI",
+      "role": "Local Arrangements Chair",
+      "email": "info@wits2026.org",
+      "phone": "+212 (06) 51 71 26 04",
+      "icon": "Mail"
+    },
+    {
+      "title": "Program Committee",
+      "name": "Pr: H. CHOUGRAD",
+      "role": "Program Chair",
+      "email": "program@wits2026.org",
+      "phone": "+212 (0)5 35 60 04 03",
+      "icon": "Phone"
+    },
+    {
+      "title": "Registration & Payment",
+      "name": "Pr: S.D. BENNANI",
+      "role": "Registration Team",
+      "email": "registration@wits2026.org",
+      "phone": "+212 (0)5 35 60 03 86",
+      "icon": "MapPin"
+    },
+    {
+      "title": "Sponsorship Opportunities",
+      "name": "Pr: S.D. BENNANI",
+      "role": "General Chair",
+      "email": "sponsors@wits2026.org",
+      "phone": "+212 (0)5 35 60 03 86",
+      "icon": "Clock"
+    }
+  ],
+  "faq": [
+    {
+      "question": "How do I submit a paper?",
+      "answer": "Please visit our Call for Papers page for detailed submission guidelines and deadlines. The submission system will be available soon."
+    },
+    {
+      "question": "What is the dress code for the conference?",
+      "answer": "Business casual attire is recommended for all conference sessions. The conference dinner may require more formal attire."
+    },
+    {
+      "question": "Are there student discounts available?",
+      "answer": "Yes, we offer significant discounts for students. Please see our registration page for current pricing and requirements."
+    },
+    {
+      "question": "Will the sessions be recorded?",
+      "answer": "Selected keynote presentations will be recorded and made available to registered participants after the conference."
+    }
+  ]
+}
