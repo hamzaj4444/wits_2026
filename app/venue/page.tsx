@@ -46,19 +46,7 @@ export default async function VenuePage() {
 
       {/* Rest of the content */}
       <div className="container mx-auto px-4 py-20">
-        {/* Conference Banner */}
-        <div className="mb-20 text-center">
-          <h2 className="text-4xl font-bold text-gray-900 mb-6">WTS2026</h2>
-          <p className="text-xl text-gray-700 mb-8">International Conference on Wireless Technologies</p>
-          <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
-            <button className="bg-blue-700 text-white hover:bg-blue-800 px-6 py-3 rounded-lg font-semibold transition-all duration-200 hover:scale-105">
-              Register Now
-            </button>
-            <button className="bg-white text-blue-700 border border-blue-700 hover:bg-blue-50 px-6 py-3 rounded-lg font-semibold transition-all duration-200 hover:scale-105">
-              Submit Paper
-            </button>
-          </div>
-        </div>
+      
 
         {/* Venue and Travel */}
         <div className="grid lg:grid-cols-2 gap-12 mb-20">

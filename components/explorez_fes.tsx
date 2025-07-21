@@ -94,10 +94,10 @@ export default function ExplorezFez({ attractions }: { attractions: any[] }) {
   return (
     <div className="mb-20" id="attractions">
       <div className="text-center mb-16">
-        <h2 className="text-4xl md:text-5xl font-bold text-white mb-6 tracking-tight">
+        <h2 className="text-4xl md:text-5xl font-bold text-black mb-6 tracking-tight">
           Explore Fez
         </h2>
-        <p className="text-slate-400 text-xl font-medium">
+        <p className="text-slate700 text-xl font-medium">
           Discover the rich cultural heritage of Morocco's spiritual capital
         </p>
       </div>
