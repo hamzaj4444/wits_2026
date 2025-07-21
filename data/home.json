@@ -2,9 +2,8 @@
   "hero": {
     "badge": "International Conference",
     "title": "WITS 2026",
-    "subtitle": "International Conference on WIreless Technologies",
-    "description": "Join leading researchers and practitioners in exploring the future of information technologies and systems"
-  },
+    "subtitle": "International Conference on WIreless Technologies"
+   },
   "importantDates": [
     {
       "title": "Paper Submission",
@@ -60,7 +59,7 @@
     },
     {
       "title": "Contact",
-      "description": "Get in touch with the organizing team",
+      "description": "To get in touch with the our organizing team",
       "href": "/contact",
       "icon": "Users"
     }
@@ -68,27 +67,27 @@
   "sponsors": [
     {
       "name": "Sponsor1",
-      "logo": "/sponsors/GitHub_Logo_White.png"
+      "logo": "/sponsors/GitHub_Logo_black.png"
     },
     {
       "name": "TechCorp",
-      "logo": "/sponsors/GitHub_Logo_White.png"
+      "logo": "/sponsors/GitHub_Logo_black.png"
     },
     {
       "name": "DataSystems",
-      "logo": "/sponsors/GitHub_Logo_White.png"
+      "logo": "/sponsors/GitHub_Logo_black.png"
     },
     {
       "name": "CloudInnovate",
-      "logo": "/sponsors/GitHub_Logo_White.png"
+      "logo": "/sponsors/GitHub_Logo_black.png"
     },
     {
       "name": "AI Solutions",
-      "logo": "/sponsors/GitHub_Logo_White.png"
+      "logo": "/sponsors/GitHub_Logo_black.png"
     },
     {
       "name": "FutureTech",
-      "logo": "/sponsors/GitHub_Logo_White.png"
+      "logo": "/sponsors/GitHub_Logo_black.png"
     }
   ],
   "conferenceHighlights": [

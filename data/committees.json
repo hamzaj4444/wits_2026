@@ -77,7 +77,7 @@
       {
         "name": "NORMA Alias",
         "role": "Chair",
-        "affiliation": "Ibnu Sina Institute for Scientific & Industrial Research (ISI-SIR), Faculty of Science, University Teknologi Malaysia, 81310, UTM Skudai, Johor, MALAYSIA"
+        "affiliation": "University Teknologi MALAYSIA"
       }
     ],
     "internationalCommittee": [
@@ -117,6 +117,62 @@
         "name": "LATRACH Mohamed",
         "role": "Chair",
         "affiliation": "ESEO Angers, FRANCE"
+      }
+    ],
+        "financialCommittee": [
+      {
+        "name": "BENNANI DOSSE Saad",
+        "role": "Co-Chair",
+        "affiliation": "ENSA, SMBA University, Fez, MOROCCO"
+      },
+      {
+        "name": "LAKHRISSI Younes",
+        "role": "Co-Chair",
+        "affiliation": "ENSA, SMBA University, Fez, MOROCCO"
+      }
+    ],
+    "juniorCommittee": [
+      {
+        "name": "AMARTY Naima",
+        "role": "Member",
+        "affiliation": "FST, SMBA University, Fez, MOROCCO"
+      },
+      {
+        "name": "DOUMAL Zouhir",
+        "role": "Member",
+        "affiliation": "FST, SMBA University, Fez, MOROCCO"
+      },
+      {
+        "name": "IDRISSI JANATI Zineb",
+        "role": "Member",
+        "affiliation": "FST, SMBA University, Fez, MOROCCO"
+      },
+      {
+        "name": "MIJITABA EL HADJI Sahirou Ali",
+        "role": "Member",
+        "affiliation": "FST, SMBA University, Fez, MOROCCO"
+      },
+      {
+        "name": "OUZINE Jamila",
+        "role": "Member",
+        "affiliation": "FST, SMBA University, Fez, MOROCCO"
+      },
+      {
+        "name": "RASSIL Asmaa",
+        "role": "Member",
+        "affiliation": "FS, Chouaïb Doukkali University, El Jadida, MOROCCO"
+      }
+    ],
+    "webTeam": [
+      {
+        "name": "ZAKARIA OUADIFI",
+        "role": "Web Designer",
+        "affiliation": "ENSA FES, MOROCCO"
+      },
+      {
+        "name": "HAMEZA JANATI",
+        "role": "Web Designer",
+        "affiliation": "ENSA FES, MOROCCO"
       }
     ],
     "technicalCommittee": [
@@ -1254,62 +1310,6 @@
         "name": "ZOUITEN Mohammed",
         "role": "Member",
         "affiliation": "FP of Taza, SMBA University, MOROCCO"
-      }
-    ],
-    "financialCommittee": [
-      {
-        "name": "BENNANI DOSSE Saad",
-        "role": "Co-Chair",
-        "affiliation": "ENSA, SMBA University, Fez, MOROCCO"
-      },
-      {
-        "name": "LAKHRISSI Younes",
-        "role": "Co-Chair",
-        "affiliation": "ENSA, SMBA University, Fez, MOROCCO"
-      }
-    ],
-    "juniorCommittee": [
-      {
-        "name": "AMARTY Naima",
-        "role": "Member",
-        "affiliation": "FST, SMBA University, Fez, MOROCCO"
-      },
-      {
-        "name": "DOUMAL Zouhir",
-        "role": "Member",
-        "affiliation": "FST, SMBA University, Fez, MOROCCO"
-      },
-      {
-        "name": "IDRISSI JANATI Zineb",
-        "role": "Member",
-        "affiliation": "FST, SMBA University, Fez, MOROCCO"
-      },
-      {
-        "name": "MIJITABA EL HADJI Sahirou Ali",
-        "role": "Member",
-        "affiliation": "FST, SMBA University, Fez, MOROCCO"
-      },
-      {
-        "name": "OUZINE Jamila",
-        "role": "Member",
-        "affiliation": "FST, SMBA University, Fez, MOROCCO"
-      },
-      {
-        "name": "RASSIL Asmaa",
-        "role": "Member",
-        "affiliation": "FS, Chouaïb Doukkali University, El Jadida, MOROCCO"
-      }
-    ],
-    "webTeam": [
-      {
-        "name": "ZAKARIA OUADIFI",
-        "role": "Web Designer",
-        "affiliation": "ENSA FES, MOROCCO"
-      },
-      {
-        "name": "HAMEZA JANATI",
-        "role": "Web Designer",
-        "affiliation": "ENSA FES, MOROCCO"
       }
     ]
   }

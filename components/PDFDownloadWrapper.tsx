@@ -8,7 +8,7 @@ export default function PDFDownloadWrapper({ formData }: { formData: any }) {
   return (
     <PDFDownloadLink
       document={<RegistrationPDF formData={formData} />}
-      fileName="WITS-2023-Registration-Form.pdf"
+      fileName="WITS-2026-Registration-Form.pdf"
       className="inline-block"
     >
       {({ loading }) => (

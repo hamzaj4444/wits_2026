@@ -5,7 +5,7 @@
 @layer base {
   :root {
     --background: 0 0% 100%;
-    --foreground: 222.2 84% 4.9%;
+    --foreground: 222.2 0% 4.9%;
     --card: 0 0% 100%;
     --card-foreground: 222.2 84% 4.9%;
     --popover: 0 0% 100%;
@@ -72,7 +72,18 @@
   .animate-fade-in {
     animation: fadeIn 1s ease-in-out;
   }
-
+.bg-zellige {
+  background-image: url('/zellige.png');
+  background-repeat: repeat;
+  background-size: 300px 300px;
+  background-blend-mode: soft-light;
+}
+.bg-zellige1 {
+  background-image: url('/1.png');
+  background-repeat: repeat;
+  background-size: 300px 300px;
+  background-blend-mode: soft-light;
+}
   .bg-grid-pattern {
     background-image: radial-gradient(circle at 1px 1px, rgba(255, 255, 255, 0.15) 1px, transparent 0);
     background-size: 20px 20px;
