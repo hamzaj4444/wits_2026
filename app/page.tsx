@@ -58,7 +58,7 @@ export default async function HomePage() {
     </div>
   </section>
      {/* About us */}
-      <section className="py-32 bg-zellige relative">
+      <section className="py-32 bg-white relative">
         <div className="absolute inset-0 bg-grid-pattern opacity-10" />
         <div className="relative container mx-auto px-4">
           <div className="text-center mb-20">
@@ -92,7 +92,7 @@ export default async function HomePage() {
         </div>
       </section>
       {/* Important Dates */}
-      <section className="py-16 bg-zellige relative">
+      <section className="py-16 bg-white relative">
         <div className="absolute inset-0 bg-grid-pattern opacity-10" />
         <div className="relative container mx-auto px-4">
           <div className="text-center mb-20">
@@ -126,7 +126,7 @@ export default async function HomePage() {
       </section>
 
       {/* Quick Links */}
-      <section className="py-16 bg-zellige">
+      <section className="py-16 bg-white">
         <div className="container mx-auto px-4">
           <div className="text-center mb-20">
             <h2 className="text-5xl md:text-6xl font-bold text-gray-900 mb-6 tracking-tight">
@@ -196,7 +196,7 @@ export default async function HomePage() {
       </section>
 
       {/* Sponsors Section */}
-      <section className="py-16 bg-zellige relative">
+      <section className="py-16 bg-white relative">
         <div className="absolute inset-0 bg-dot-pattern opacity-10" />
         <div className="relative container mx-auto px-4">
           <div className="text-center mb-20">
@@ -228,7 +228,7 @@ export default async function HomePage() {
       </section>
 
       {/* Photo Gallery Preview with Slide Effect */}
-      <section className="py-16 bg-zellige">
+      <section className="py-16 bg-white">
         <div className="container mx-auto px-4">
           <div className="text-center mb-20">
             <h2 className="text-5xl md:text-6xl font-bold text-gray-900 mb-6 tracking-tight">
